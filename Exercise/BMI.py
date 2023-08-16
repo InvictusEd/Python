@@ -1,3 +1,5 @@
+# BMI判断
+
 gender = input("请输入您的性别(男/女)：")
 weight = eval(input("请输入您的体重（kg）："))
 height = eval(input("请输入您的身高(m)："))
